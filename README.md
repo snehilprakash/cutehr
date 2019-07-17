@@ -1,3 +1,3 @@
 # CuteHR
 Pulling data from 
-Cutehr : https://www.cutehrio
+Cutehr : https://www.cutehr.io
